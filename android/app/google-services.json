@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333709305939",
+    "project_id": "myproject-70e79",
+    "storage_bucket": "myproject-70e79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333709305939:android:4af0ab5eec692bee62fea6",
+        "android_client_info": {
+          "package_name": "com.fundoonotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333709305939-2l32kjjclvacklsjcdps2b1jqa1ct48v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fundoonotes",
+            "certificate_hash": "e882d36db0484241e09509dcaac051df36c0df05"
+          }
+        },
+        {
+          "client_id": "333709305939-ohmm75bdcqocf9n44k8kj3vatapakhb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDyvzBMgbC2p0rK-oIkh0Y5ljqp1ZrjXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333709305939-ohmm75bdcqocf9n44k8kj3vatapakhb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
